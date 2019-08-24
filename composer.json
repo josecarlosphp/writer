@@ -1,0 +1,21 @@
+{
+    "name": "josecarlosphp/writer",
+    "description": "PHP classes for write to different destinations, mainly files.",
+    "keywords": [
+        "PHP", "writer", "file", "CSV"
+    ],
+    "homepage": "https://github.com/josecarlosphp/writer",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "José Carlos Cruz Parra",
+            "homepage": "https://josecarlosphp.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "josecarlosphp\\writer\\": "src/"
+        }
+    }
+}
