@@ -27,7 +27,7 @@ class MyWriterCsv extends MyWriterFile
 {
 	private $_delimiter = ',';
 	private $_enclosure = '"';
-	private $_escape = "\\";
+	private $_escape = '\\';
 	
     public function WriteCSV($arr)
     {
